@@ -1,9 +1,9 @@
 # CI WINNING LTD — Official Website
 
-Professional website for **CI WINNING LTD** — educational support services helping
-students win places at universities in the **United Kingdom**, **Canada**, the
-**Netherlands** and beyond, with offices/presence in the **UK** and
-**Port Harcourt, Nigeria**.
+Professional website for **CI WINNING LTD** — educational support services bringing
+students from the **United Kingdom**, **Nigeria**, **Ghana**, **Bangladesh** and
+beyond to universities in the **United Kingdom**, **Canada**, the **Netherlands**
+and beyond, registered in the **UK** with a student support base in **Port Harcourt, Nigeria**.
 
 **Live site:** https://ciwinningltd.github.io/education/
 
