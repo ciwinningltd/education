@@ -5,11 +5,11 @@ students win places at universities in the **United Kingdom**, **Canada**, the
 **Netherlands** and beyond, with offices/presence in the **UK** and
 **Port Harcourt, Nigeria**.
 
-**Live site:** https://rudra496.github.io/ciwinningltd/
+**Live site:** https://ciwinningltd.github.io/ciwinningltd/
 
 > ℹ️ Official contact channels: **WhatsApp +44 7397 267592** · **ciwinningltd@gmail.com** —
 > these are the only contact channels. The Port Harcourt office address is on the
-> [Contact page](https://rudra496.github.io/ciwinningltd/contact.html).
+> [Contact page](https://ciwinningltd.github.io/ciwinningltd/contact.html).
 
 ## Pages
 | File | Purpose |
@@ -49,7 +49,7 @@ python -m http.server 8080
 Hosted free on **GitHub Pages** (repo root, `main` branch). To move to a custom
 domain later: add the domain in repo Settings → Pages, update the `canonical` /
 Open Graph / `sitemap.xml` / `robots.txt` URLs from
-`https://rudra496.github.io/ciwinningltd/` to the new domain, and add a CNAME file.
+`https://ciwinningltd.github.io/ciwinningltd/` to the new domain, and add a CNAME file.
 
 ## Updating content
 All text lives directly in the five HTML files. Brand colors/fonts are CSS
