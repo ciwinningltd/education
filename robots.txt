@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ciwinningltd.github.io/ciwinningltd/sitemap.xml
+Sitemap: https://ciwinningltd.github.io/education/sitemap.xml
